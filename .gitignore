@@ -13,8 +13,6 @@ macos/RemoteKBDesktop/RemoteKBDesktop.xcodeproj/xcuserdata/
 dep/bifrost/bifrost-server/bifrost-server.xcodeproj/project.xcworkspace/xcuserdata/
 dep/bifrost/bifrost-client/bifrost-client.xcodeproj/project.xcworkspace/xcuserdata/
 
-# website
-remoboard.github.io/
 
 # macos
 macos/RemoteKBMac/RemoteKBMac.xcodeproj/project.xcworkspace/xcuserdata/
